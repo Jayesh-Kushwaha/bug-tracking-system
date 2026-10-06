@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/summer-internship-bug-tracker/static/css/main.409237a1.css",
+    "main.js": "/summer-internship-bug-tracker/static/js/main.14ae3396.js",
+    "index.html": "/summer-internship-bug-tracker/index.html",
+    "main.409237a1.css.map": "/summer-internship-bug-tracker/static/css/main.409237a1.css.map",
+    "main.14ae3396.js.map": "/summer-internship-bug-tracker/static/js/main.14ae3396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409237a1.css",
+    "static/js/main.14ae3396.js"
+  ]
+}
